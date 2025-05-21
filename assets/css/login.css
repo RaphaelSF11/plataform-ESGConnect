@@ -14,6 +14,17 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width: 300px;
+
+}
+
+.login-container-logo {
+
+    width: 120px;
+    margin-left: 90px;
+}
+
+h2 {
+    text-align: center;
 }
 
 .form-group {
@@ -30,6 +41,18 @@ body {
     padding: 0.5rem;
     border: 1px solid #ddd;
     border-radius: 4px;
+}
+
+.login-container-register {
+    font-size: 15px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.login-container-register:hover {
+
+    color: #71c55d;
+    transition: 0.3s;
 }
 
 button {
